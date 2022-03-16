@@ -11,7 +11,7 @@
 
 🗣️ I'd like to became a public speaker.
 
-🤟 I'm a metalhead.
+
 
 
 
