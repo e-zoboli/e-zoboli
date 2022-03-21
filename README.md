@@ -5,7 +5,7 @@
 
 🌱 I'm currently learning C#.
 
-🐧 Big fan of Linux.
+🐧 Using Linux.
 
 ⚙️ Someday I'll try to learn Rust.
 
