@@ -7,9 +7,9 @@
 
 🐧 Using Linux.
 
-⚙️ Someday I'll try to learn Rust.
+⚙️ Someday I'll learn Rust.
 
-🗣️ I'd like to became a public speaker.
+
 
 
 
