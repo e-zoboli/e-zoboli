@@ -1,13 +1,15 @@
 ##  👋 Hello, folks! 
 👶 My names is Enrico and I'm junior software developer.
 
-🐍 I code in Python.
+🌱 I recently started my career in software development.
 
-🌱 I'm currently learning C#.
+👨‍💻 I work in .Net.
 
-🐧 Using Linux.
+📗 I wish to learn something every day.
 
-⚙️ Someday I'll learn Rust.
+🌌 I would like to become an open source contributor
+
+
 
 
 
