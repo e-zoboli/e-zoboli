@@ -5,7 +5,7 @@
 
 👨‍💻 I work in .Net.
 
-📗 I wish to learn something every day.
+📗 I wish to learn something new every day.
 
 🌌 I would like to become an open source contributor
 
