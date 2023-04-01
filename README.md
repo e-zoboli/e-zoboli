@@ -1,14 +1,15 @@
 ##  👋 Hello, folks! 
-👶 My names is Enrico and I'm junior software developer.
+🌱 My names is Enrico and I'm junior software developer.
 
-🌱 I recently started my career in software development.
+🚀 I recently started my career in software development.
 
-👨‍💻 I work in .Net.
+🐳 I work mainly in .Net but I like to play with different languages.
 
-📗 I wish to learn something new every day.
+📗 I enjoy studying new technologies.
 
-🌌 I would like to become an open source contributor
+🌌 I would like to become an open source contributor.
 
+🗺 I need to travel.
 
 
 
