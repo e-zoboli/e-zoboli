@@ -9,7 +9,6 @@
 
 🌌 I would like to become an open source contributor.
 
-🗺 I need to travel.
 
 
 
